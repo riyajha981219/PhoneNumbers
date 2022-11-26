@@ -1,8 +1,4 @@
 # PhoneNumbers
-
-1002. Phone Numbers
-Time limit: 2.0 second
-Memory limit: 64 MB
 In the present world you frequently meet a lot of call numbers and they are going to be longer and longer. You need to remember such a kind of numbers. One method to do it in an easy way is to assign letters to digits as shown in the following picture:
 1 ij    2 abc   3 def
 4 gh    5 kl    6 mn
